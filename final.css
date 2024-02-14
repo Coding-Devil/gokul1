@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+}
+
+p,
+h1 {
+  overflow-wrap: break-word;
+}
+
+button {
+  font: inherit;
+}
+
+.login-form {
+  /* add drop shadow */
+  box-shadow: 1em 1em 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+@media screen and (max-width: 570px) {
+  .main-body {
+    background-image: none;
+  }
+  .login-form {
+    border-radius: 0;
+  }
+}
+
+/* -------------------------css reset ends------------------------------------------------------------- */
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.login-form {
+  width: 24.4em;
+  background-color: #fff;
+  border-radius: 2em;
+}
+
+.card-header {
+  padding: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+}
+
+h1 {
+  font-size: 2.25em;
+  font-weight: 700;
+}
+
+.form-input {
+  padding: 0.5em 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-bottom: 0.5em;
+  border: 1px solid black;
+  border-radius: 2em;
+  padding: 0.5em;
+}
+
+.actions {
+  padding: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 2em;
+  margin-top: 1.5em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  background-color: #151b3f;
+  color: #ffffff;
+  padding: 0.5em 1.5em;
+  border: none;
+  border-radius: 1.375em;
+}
+
+a {
+  color: #fd5b65;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+button:hover {
+  cursor: pointer;
+}
