@@ -1,5 +1,5 @@
 ---
-title: "⚡ Electricity Bill  Management System (EBMS) 🚀"
+title: "⚡ Electricity Bill  Management System 🚀"
 seoTitle: "Electricity Bill  Management System"
 datePublished: Fri Sep 06 2024 10:55:47 GMT+0000 (Coordinated Universal Time)
 cuid: cm0qlojmr000u08l6azudass3
