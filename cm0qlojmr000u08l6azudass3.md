@@ -1,5 +1,5 @@
 ---
-title: "⚡ Electricity Bill  Management System 🚀"
+title: "⚡ Electricity Bill  Management System"
 seoTitle: "Electricity Bill  Management System"
 datePublished: Fri Sep 06 2024 10:55:47 GMT+0000 (Coordinated Universal Time)
 cuid: cm0qlojmr000u08l6azudass3
@@ -11,7 +11,7 @@ tags: electricity
 
 ---
 
-**Welcome to EBMS** \- the ultimate digital superhero for managing electricity bills 🦸‍♂️. Whether you're an admin handling tons of customer data or a user keeping track of your monthly bill, this system's got you covered. Built using 💻 **Java** and backed by 🗄️ **MySQL**, it’s a powerhouse that makes managing your electricity billing feel like a breeze 🌬️.
+**Welcome to EBMS** - the ultimate digital superhero for managing electricity bills 🦸‍♂️. Whether you're an admin handling tons of customer data or a user keeping track of your monthly bill, this system's got you covered. Built using 💻 **Java** and backed by 🗄️ **MySQL**, it’s a powerhouse that makes managing your electricity billing feel like a breeze 🌬️.
 
 ### ✨ Key Features
 
@@ -29,7 +29,7 @@ tags: electricity
     
 * **Print-Ready** 🖨️: Need a physical copy? Just click **print**, and boom—you’ve got a hard copy faster than your morning coffee ☕.
     
-* **Login System** 🔐: No randoms sneaking in. A secure login makes sure only the right people get access.
+* **Login System** 🔐: No random sneaking in. A secure login makes sure only the right people get access.
     
 * ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1725619609747/59c2a757-33f4-4043-90f8-812fe4fc3ccc.png align="center")
     
@@ -118,6 +118,6 @@ EBDMS is the future of electricity billing, designed to streamline and simplify 
 
 ---
 
-Check out my Github for project :
+Check out my GitHub for project :
 
 %[https://github.com/Coding-Devil/Electricity-bill-DBMS]
